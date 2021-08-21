@@ -1,6 +1,6 @@
 #Machine Learning Codecademy Projects 
 
-This folder contains Codecademy Machine learning projects 
+This folder contains Machine learning projects showcasing various ML model applications
 
 
 Project # 1[Honey Bee Production - Linear Regression Model ]
