@@ -9,7 +9,7 @@ Production of honey has been in decline, here we investigate this decline and ho
 
 Project # 2 [ New York City’s Real Estate Marketplace : Multiple Linear Regression Model (MLR)]
  
-Built a MLR model to analyse StreetEasy Dataset.
+Built a MLR model to analyse StreetEasy Dataset in Jupyter Notebook.
 
 Street Easy is New York City’s leading real estate marketplace. The dataset contains information about apartments in New York. I’ll find the correlations between several features and the rent, build/evaluate a MLR model, and use the model to present interesting findings: 
 “How costly is living by a subway station in Brooklyn/Queens?”
