@@ -23,6 +23,10 @@ Project # 4 [Kaggle Competition (Beginner) - Titanic ML - Build Prediction Model
 
 Titanic ML competition,build a predictive model using ML that answers the question: “what sorts of people were more likely to survive the titanic shipwreck?”
 
+https://www.kaggle.com/c/titanic/overview
+
+
+
 
 
 
