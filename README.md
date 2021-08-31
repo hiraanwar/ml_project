@@ -19,5 +19,13 @@ Street Easy is New York City’s leading real estate marketplace. The dataset co
 “How costly is living by a subway station in Brooklyn/Queens?”
 “Is a tenant over or underpaying?”
 
+Project # 4 [Kaggle Competition (Beginner) - Titanic ML - Build Prediction Model using Decision Tree Classifier
+
+Titanic ML competition,build a predictive model using ML that answers the question: “what sorts of people were more likely to survive the titanic shipwreck?”
+
+
+
+
+
 
 
